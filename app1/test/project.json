@@ -17,7 +17,8 @@
             "sandbox": true,
             "directory": "functional",
             "name": "Functional Tests",
-            "launch": true
+            "launch": true,
+            "page": "http://localhost:1841"
         }
     ]
 }
