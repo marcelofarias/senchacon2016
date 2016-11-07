@@ -4,6 +4,8 @@ describe("App1FunctionalTest.js", function() {
     });
     
     it('should match screenshot', function() {
-        ST.screenshot('first screenshot');
+        ST
+            .wait(10 * 1000)
+            .screenshot('first screenshot');
     });
 });
