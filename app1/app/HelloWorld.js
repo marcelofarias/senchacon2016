@@ -4,7 +4,7 @@
 Ext.define('app1.HelloWorld', {
     
     sayHello: function () {
-        return 'Hello!';
+        return 'Hi people!';
     }
     
 });
