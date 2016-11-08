@@ -83,7 +83,7 @@ Ext.define('app1.view.main.Main', {
             xtype: 'mainlist'
         }]
     }, {
-        title: 'Beloved Users',
+        title: 'Users',
         iconCls: 'fa-user',
         bind: {
             html: '{loremIpsum}'
