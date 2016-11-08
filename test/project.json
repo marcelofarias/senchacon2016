@@ -1,0 +1,15 @@
+{
+    "framework": "jasmine",
+    "libs": [],
+    "coverageFilters": [],
+    "scenarios": [
+        {
+            "libs": [],
+            "coverageFilters": [],
+            "sandbox": true,
+            "directory": "unit",
+            "name": "Sencha Examples",
+            "page": "http://examples.sencha.com/extjs/6.2.0/examples/admin-dashboard/#dashboard"
+        }
+    ]
+}
