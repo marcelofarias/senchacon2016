@@ -1,0 +1,18 @@
+[
+    {
+        "browserName": "internet explorer",
+        "version": "9",
+        "sencha": {
+            "concurrency": 1
+        },
+        "platform": "Windows 7"
+    },
+    {
+        "browserName": "microsoftedge",
+        "version": "13",
+        "sencha": {
+            "concurrency": 1
+        },
+        "platform": "Windows 10"
+    }
+]

@@ -22,13 +22,28 @@
                 {
                     "name": "selenium-vm",
                     "type": "generic",
-                    "host": "192.168.2.163",
+                    "host": "192.168.2.164",
                     "port": 4444,
-                    "sessionLimit": 2,
+                    "sessionLimit": 1,
                     "pools": [
                         {
                             "name": "selenium-vm-all",
                             "path": "farms/selenium-vm-all.json"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sauce Labs",
+                    "type": "saucelabs",
+                    "host": "ondemand.saucelabs.com",
+                    "port": 80,
+                    "username": "marcelofarias",
+                    "accessKey": "50e16be2-7d21-4f2c-b43b-3d5843dcad53",
+                    "sessionLimit": 2,
+                    "pools": [
+                        {
+                            "name": "saucelabs-ie",
+                            "path": "farms/saucelabs-ie.json"
                         }
                     ]
                 }

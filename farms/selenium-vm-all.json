@@ -6,13 +6,5 @@
             "concurrency": 1
         },
         "platform": "WINDOWS"
-    },
-    {
-        "browserName": "internet explorer",
-        "version": "11",
-        "sencha": {
-            "concurrency": 1
-        },
-        "platform": "WINDOWS"
     }
 ]
