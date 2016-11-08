@@ -11,4 +11,8 @@ describe("Left menu", function() {
         
     });
     
+    it('renders correctly', function () {
+        ST.screenshot('left menu');
+    })
+    
 });
