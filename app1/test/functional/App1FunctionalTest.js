@@ -16,7 +16,7 @@ describe("App1FunctionalTest.js", function() {
     });
     
     it('renders correctly', function () {
-        ST.wait(2000).screenshot('compose-email');
+        ST.wait(2000).screenshot('compose-email', 20);
     });
     
 });
