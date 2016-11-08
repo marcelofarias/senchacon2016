@@ -1,6 +1,14 @@
 [
     {
         "browserName": "internet explorer",
+        "version": "8",
+        "sencha": {
+            "concurrency": 1
+        },
+        "platform": "Windows 2003"
+    },
+    {
+        "browserName": "internet explorer",
         "version": "9",
         "sencha": {
             "concurrency": 1

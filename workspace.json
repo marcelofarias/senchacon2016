@@ -24,7 +24,7 @@
                 {
                     "name": "selenium-vm",
                     "type": "generic",
-                    "host": "192.168.2.164",
+                    "host": "192.168.2.163",
                     "port": 4444,
                     "sessionLimit": 1,
                     "pools": [
