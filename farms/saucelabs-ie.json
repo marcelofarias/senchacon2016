@@ -14,5 +14,13 @@
             "concurrency": 1
         },
         "platform": "Windows 10"
+    },
+    {
+        "browserName": "safari",
+        "version": "10",
+        "sencha": {
+            "concurrency": 1
+        },
+        "platform": "Mac 10.11"
     }
 ]

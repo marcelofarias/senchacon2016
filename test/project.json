@@ -10,6 +10,23 @@
             "directory": "unit",
             "name": "Sencha Examples",
             "page": "http://examples.sencha.com/extjs/6.2.0/examples/admin-dashboard/#dashboard"
+        },
+        {
+            "libs": [],
+            "coverageFilters": [],
+            "sandbox": true,
+            "directory": "Database",
+            "name": "Database",
+            "page": "http://examples.sencha.com/extjs/6.2.0/examples/admin-dashboard/#dashboard"
+        },
+        {
+            "libs": [],
+            "coverageFilters": [],
+            "sandbox": true,
+            "directory": "WebdriverIO",
+            "page": "http://www.google.com",
+            "name": "WebdriverIO"
         }
-    ]
+    ],
+    "globals": "*"
 }
