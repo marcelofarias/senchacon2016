@@ -1,6 +1,8 @@
 {
     "apps": [
-        "app1"
+        "app1",
+        "app2",
+        "app3"
     ],
     "frameworks": {
         "ext": {
@@ -50,6 +52,7 @@
             ]
         },
         "archiveRoot": "/SenchaCon",
-        "archiveServer": "http://localhost:1903"
+        "archiveServer": "http://localhost:1903",
+        "path": "test/project.json"
     }
 }
